@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html>
+<head><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+  <title>Streaming platform</title>
+  <style>
+    .navbar{
+              background-color:black;
+                border-radius:36px;
+    }
+    .navbar ul{
+      overflow: auto;
+    }
+    .navbar li{
+      float:left;
+      list-style: none;
+      padding:10px 22px;
+    }
+    .navbar  li a {
+       padding:3px 3px;
+       text-decoration:none;
+      color:white;
+       margin:3px 3px;
+    }
+    .search{
+         float: right;
+                padding:10px;
+              color: white;
+    } 
+  
+ .fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-facebook {
+  background: #white;
+  color:blue;
+}
+
+.fa-twitter {
+  background: #white;
+  color:blue;
+}
+
+.fa-google {
+  background: #black;
+  color: blue;
+}
+
+.fa-linkedin {
+  background: #black;
+  color: blue;
+}
+
+.fa-youtube {
+  background:none;
+  color:blue;
+}
+
+.fa-instagram {
+  background:none;
+  color: blue;
+}
+
+ 
+  </style>  
+</head>
+<body>
+     <header>
+      <nav class="navbar">
+        <ul>
+          <b><li><a href="https://dribbble.com/">Home</a></li></b>
+          <li><a href="https://dribbble.com/shots">inspiration</a></li>
+          <li><a href="https://dribbble.com/jobs">Find work</a></li>
+          <li><a href="https://dribbble.com/learn">Learn Desgin</a></li>
+          <li><a href="https://dribbble.com/pro"> Go Pro</a></li>
+          <li><a href="https://dribbble.com/marketplace">Desgin File</a></li>
+          <li><a href="https://dribbble.com/hiring">Hire Desginer</a></li>
+             <div class="search"><input type="text" name="search"id="search" placeholder="search"></div>
+        </ul> 
+
+      </nav>
+     </header><hr>
+     <br>  
+       <center><a href="https://dribbble.com/shots/16019449-Streaming-App/attachments/7860711?mode=media"> <img style="border-radius: 30px;" src=" https://cdn.dribbble.com/users/6259454/screenshots/16019449/media/9174d26dbe0ab14978afa7a22f25eb32.png?compress=1&resize=768x576&vertical=top"></a></center> 
+       <br><br>
+         <div>
+         <ol> <ol><ol><ol><ol>
+              <p>Hello  A new concept of a streaming platform for the game Ansari <br I would be very glad to your likes and comments</p>
+              <h3>My instagram -</h3>
+              <b></b><a href="https://www.instagram.com/ansari_the_rude_boy_/"rel="noreferrer nofollow"> <font color="blue">https://www.instagram.com/ansari_the_rude_boy_/</font> </a></b><br><br>
+              <b>We are available for new design project  <br><br> Work With Us:<a href="mailto:hello"> <font  color="blue">iam ayyubansari@gmail.com</font></a>
+                       </ol></ol></ol></ol></ol><br><hr>
+                    </div> 
+      </center><br><br>
+            <ol> More with Ayyub Ansari</ol>
+             <a href="https://dribbble.com/shots/15885538-Game-App 
+             "><img style="border-radius: 25px;  padding-left: 40px; padding-right: 15px;" src=" https://cdn.dribbble.com/users/6259454/screenshots/15885538/media/5db5558f9f81a36143891cd43a1cfce9.png?compress=1&resize=400x300&vertical=top"></a>
+          <a href=" https://dribbble.com/shots/17389280-Game-Dashboard
+           "><img style= "border-radius: 25px; padding-right: 15px;" src="https://cdn.dribbble.com/users/6259454/screenshots/17389280/media/bddb02eb1895ac3097a78efb789edee7.png?compress=1&resize=400x300&vertical=top
+           "></a>
+          <a href=" https://dribbble.com/shots/15937513-Nintendo-Game "> <img style=" border-radius: 25px; padding-right: 15px;" src="https://cdn.dribbble.com/users/6259454/screenshots/15937513/media/32ad12a45afe7c35ea4a075ad376621a.png?compress=1&resize=400x300&vertical=top "></a><br><br><br><br>
+           <center><button> L</button> <button>K</button> Like</center><br>
+         <div style="background-color: lightgrey"> <ul>
+          
+             <pre>
+             <b>
+               For designers                  Hire designers                     Company                              Directories        </b>
+
+                Go Pro!                       Post a job opening                 About                                Privacy policy
+
+                Explore design work           Post a freelance project           Careers                              esigners for hire
+ 
+                Overtime podcast              Search for designers               Support                              Tags
+
+                Playoffs                      <b>Brands</b>                                       
+                                                                     
+                Weekly Warm-Up                Advertise with us                              
+
+                Refer a Friend                                                   
+                Code of conduct                                                     
+
+                                                                                 
+             
+          
+          </pre>
+          <table>
+          <center>
+ <a href="https://www.facebook.com/" class="fa fa-facebook"></a>
+<a href="https://twitter.com/i/flow/login" class="fa fa-twitter"></a>
+<a href="https://www.google.com/" class="fa fa-google"></a>
+<a href="https://www.linkedin.com/login" class="fa fa-linkedin"></a>
+<a href="  https://www.youtube.com/" class="fa fa-youtube"></a>
+<a href="https://www.instagram.com/" class="fa fa-instagram"></a>
+ 
+</table>
+</center>  
+       </div>
+
+</body>
+</html>
+           
